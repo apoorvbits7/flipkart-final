@@ -1,8 +1,8 @@
 // Download the helper library from https://www.twilio.com/docs/node/install
 // Your Account Sid and Auth Token from twilio.com/console
 // DANGER! This is insecure. See http://twil.io/secure
-const accountSid = 'AC4d82f1839e59f6008ec55f3ee1fa2f79';
-const authToken = 'a91c12efcedfd8eb34a5ddc902c313a1';
+const accountSid = '';
+const authToken = '';
 const client = require('twilio')(accountSid, authToken);
 const Chatbot = require('../models').Chatbot;
 
