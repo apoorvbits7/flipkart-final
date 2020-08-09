@@ -13,10 +13,12 @@ $ pip install -r requirements.txt
 To run the program, change directory to the cli folder where the program is contained. 
 The program can be run using the following command :
 ```sh
-python3 file.py -i <PATH_TO_INPUT_PDF> -o <PATH_TO_SAVE_OUTPUT_EXCEL>
+python3 digitize_invoice.py -i <PATH_TO_INPUT_PDF> -o <PATH_TO_SAVE_OUTPUT_EXCEL>
 ```
 
-### Setting Up The Fronend
+### Running The Program with GUI
+
+### Setting Up The Frontend
 
 cd into the frontend folder and run the following commands:
 ```sh
