@@ -44,7 +44,7 @@ PS:
 
 ### GUI Snapshots
 
-<center>Use the Dashboard to Bulk Upload and Download Images!</center>
+Use the Dashboard to Bulk Upload and Download Images!
 ![Analyze](https://something-corona.s3.ap-south-1.amazonaws.com/flipkart/1.PNG)
 
 
