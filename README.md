@@ -43,6 +43,7 @@ The backend is now hosted on http://localhost:8000/
 PS:
 1. To make the backend work you will need to enter you database credentials in backend/server/config/config.json
 2. For the chatbot to work you will need to enter your Twilio credentials in backend/server/controllers/chatbot.js
+3. You will also need to add the webhook url on Twilio to receive messages on the backend server
 
 ### CLI Snapshot
 ![Analyze](https://something-corona.s3.ap-south-1.amazonaws.com/flipkart/CLI.jpeg)
