@@ -59,7 +59,7 @@ PS:
 #### Sellers can use the chatbot to see if their invoices are all correct
 ![Analyze](https://something-corona.s3.ap-south-1.amazonaws.com/flipkart/Whatsapp.PNG)
 
-#### Check on the dashboard who needs support
+#### Check who needs support
 ![Analyze](https://something-corona.s3.ap-south-1.amazonaws.com/flipkart/Chatbot.PNG)
 
 #### Reply to each message individually
