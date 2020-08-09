@@ -42,3 +42,8 @@ PS:
 2. For the chatbot to work you will need to enter your Twilio credentials in backend/server/controllers/chatbot.js
 
 
+### GUI Snapshots
+
+![Analyze](https://something-corona.s3.ap-south-1.amazonaws.com/flipkart/1.PNG)
+
+
