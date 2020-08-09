@@ -37,6 +37,10 @@ $ npm run start:dev
 
 The backend is now hosted on http://localhost:8000/
 
+PS:
+1. To make the backend work you will need to enter you database credentials in backend/server/config/config.json
+2. For the chatbot to work you will need to enter your Twilio credentials in backend/server/controllers/chatbot.js
+
 There are two ways to run the program:
 Using the GUI provided by dragging and dropping the input file
 Use the CLI to run the program by specifying the input, output and template file 
