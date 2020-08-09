@@ -1,0 +1,44 @@
+.Sidebar {
+    width: 18%;
+    height: 90%;
+    background-color: white;
+    padding-top: 1%;
+    display: flex;
+    justify-content: center;
+}
+
+.Sidebar .menuList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 1%;
+    width: 90%;
+}
+
+.Sidebar .menuList .menuItem {
+    text-align: left;
+    margin-top: 3%;
+    color: #a2a7b0;
+    font-size: 1.1rem;
+    margin-right: 2%;
+    display: flex;
+    width: 100%;
+}
+
+.Sidebar .menuList .menuItem a {
+    padding: 4%;
+    border-radius: 15px;
+    width: 100%;
+    color: #a2a7b0;
+    text-decoration: none;
+}
+
+.Sidebar .menuList .menuItem .active {
+    background-color: #eaf2ff;
+    color: #508ff4;
+}
+
+.Sidebar .menuList .menuItem i {
+    margin-right: 3%;
+    margin-left: 3%;
+}

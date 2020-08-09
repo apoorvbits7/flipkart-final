@@ -1,0 +1,33 @@
+.UploadCard {
+    background-color: white;
+    border-radius: 5%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 2px solid #729fe5;
+    cursor: pointer;
+}
+
+.UploadCard:hover {
+    color: #508ff4;
+    transition: ease-in-out 0.2s;
+}
+
+.UploadCard .image {
+    font-size: 4rem;
+    font-weight: 100;
+    margin-top: 7%;
+    color: #a2a7b0;
+}
+
+.UploadCard:hover .image {
+    color: #508ff4;
+    transition: ease-in-out 0.2s;
+}
+
+.UploadCard .text {
+    font-size: 1rem;
+    font-weight: 600;
+    padding-bottom: 5%;
+}

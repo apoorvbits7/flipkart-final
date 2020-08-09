@@ -1,0 +1,35 @@
+{
+  "name": "flipkartgrid-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ApoorvSadana/flipkartgrid-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ApoorvSadana/flipkartgrid-backend/issues"
+  },
+  "homepage": "https://github.com/ApoorvSadana/flipkartgrid-backend#readme",
+  "dependencies": {
+    "aws-sdk": "^2.719.0",
+    "body-parser": "^1.19.0",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "morgan": "^1.10.0",
+    "pg": "^8.3.0",
+    "pg-hstore": "^2.3.3",
+    "python-shell": "^2.0.1",
+    "sequelize": "^6.3.3",
+    "twilio": "^3.48.1"
+  }
+}

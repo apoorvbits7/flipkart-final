@@ -1,0 +1,20 @@
+certifi==2020.6.20
+et-xmlfile==1.0.1
+fuzzywuzzy==0.18.0
+jdcal==1.4.1
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+numpy==1.19.1
+# opencv-python==4.3.0.36
+openpyxl==3.0.4
+pandas==1.1.0
+pdf2image==1.13.1
+Pillow==7.2.0
+pytesseract==0.3.4
+python-dateutil==2.8.1
+python-Levenshtein==0.12.0
+pytz==2020.1
+scipy==1.5.2
+six==1.15.0
+tqdm==4.48.2
+xlrd==1.2.0

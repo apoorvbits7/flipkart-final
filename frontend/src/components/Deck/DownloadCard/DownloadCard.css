@@ -1,0 +1,39 @@
+.DownloadCard {
+    background-color: white;
+    border-radius: 5%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #729fe5;
+    cursor: pointer;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.DownloadCard:hover {
+    color: #508ff4;
+    transition: ease-in-out 0.2s;
+}
+
+.DownloadCard .image {
+    font-size: 4rem;
+    font-weight: 100;
+    margin-top: 7%;
+    color: #a2a7b0;
+}
+
+.DownloadCard:hover .image {
+    color: #508ff4;
+    transition: ease-in-out 0.2s;
+}
+
+.DownloadCard .text {
+    font-size: 1rem;
+    font-weight: 600;
+    padding-bottom: 5%;
+}
+
+.DownloadCard .circleProgress {
+    width: 70px;
+    margin-top: 3%;
+}

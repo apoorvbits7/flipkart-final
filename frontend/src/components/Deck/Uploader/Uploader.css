@@ -1,0 +1,51 @@
+.overlay {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    top: 0;
+    left: 0;
+}
+
+.uploader {
+    z-index: 10;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 80%;
+    width: 40%;
+    background-color: white;
+    border-radius: 2%;
+    box-shadow: 0 3px 3px 0 rgba(196, 200, 208, 0.7);
+    overflow: hidden;
+}
+
+.uploader .header {
+    height: 5%;
+    width: 100%;
+    background-color: #508ff4;
+    text-align: right;
+}
+
+/* width */
+.uploader ::-webkit-scrollbar {
+    width: 2px;
+}
+
+/* Track */
+.uploader ::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+
+/* Handle */
+.uploader ::-webkit-scrollbar-thumb {
+    background: #508ff4;
+    border-radius: 10%;
+}
+
+/* Handle on hover */
+.uploader ::-webkit-scrollbar-thumb:hover {
+    background: #508ff4;
+}

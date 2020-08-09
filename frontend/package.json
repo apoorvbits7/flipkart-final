@@ -1,0 +1,54 @@
+{
+  "name": "flipkartgrid",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@phuocng/react-pdf-viewer": "^1.7.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "ag-grid-community": "^23.2.1",
+    "ag-grid-react": "^23.2.1",
+    "axios": "^0.19.2",
+    "file-saver": "^2.0.2",
+    "immer": "^7.0.6",
+    "jsonwebtoken": "^8.5.1",
+    "jszip": "^3.5.0",
+    "jszip-utils": "^0.1.0",
+    "pdfjs-dist": "^2.4.456",
+    "react": "^16.13.1",
+    "react-circular-progressbar": "^2.0.3",
+    "react-dom": "^16.13.1",
+    "react-dropzone-uploader": "^2.11.0",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-table": "^7.3.2",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "styled-components": "^5.1.1",
+    "sweetalert2": "^9.17.1",
+    "uuid": "^8.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

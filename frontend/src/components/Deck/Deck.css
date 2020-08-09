@@ -1,0 +1,13 @@
+.Deck {
+    width: 82%;
+    height: 87%;
+    padding: 3%;
+    overflow-y: scroll;
+}
+
+.Deck .headerRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 2%;
+}

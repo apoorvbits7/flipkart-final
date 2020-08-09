@@ -1,0 +1,69 @@
+.ProcessedViewer {
+    z-index: 10;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 90%;
+    width: 70%;
+    background-color: white;
+    border-radius: 2%;
+    box-shadow: 0 3px 3px 0 rgba(196, 200, 208, 0.7);
+    overflow: hidden;
+    display: flex;
+}
+
+.ProcessedViewer .fields {
+    width: 35%;
+    height: 100%;
+    background-color: #eaf2ff;
+    padding-top: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ProcessedViewer .preview {
+    width: 65%;
+    height: 100%;
+    background-repeat: round;
+}
+
+.ProcessedViewer .fields .title {
+    color: #3b55e6;
+    font-weight: 600;
+    font-size: 2rem;
+    display: flex;
+}
+
+.ProcessedViewer .fields label {
+    margin-top: 5%;
+    width: 80%;
+    text-align: left;
+}
+
+.ProcessedViewer .fields input {
+    background-color: white;
+    border: 0;
+    border-radius: 16px;
+    width: 80%;
+    padding: 2%;
+    padding-left: 4%;
+    caret-color: #3b55e6;
+}
+
+.ProcessedViewer .fields input:focus {
+    outline: none;
+}
+
+.ProcessedViewer .crossButton {
+    position: absolute;
+    right: 10px;
+    top: 50px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.ProcessedViewer .crossButton .icon-background {
+    color: #3b55e6;
+}
