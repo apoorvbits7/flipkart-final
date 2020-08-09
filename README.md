@@ -44,7 +44,25 @@ PS:
 
 ### GUI Snapshots
 
-Use the Dashboard to Bulk Upload and Download Images!
+##### Use the Dashboard to Bulk Upload
 ![Analyze](https://something-corona.s3.ap-south-1.amazonaws.com/flipkart/1.PNG)
+
+##### Downlaod the results individually or in bulk
+![Analyze](https://something-corona.s3.ap-south-1.amazonaws.com/flipkart/Analyze.PNG)
+
+##### View your results on the dashboard itself with side by side view of the PDF
+![Analyze](https://something-corona.s3.ap-south-1.amazonaws.com/flipkart/Analyze-View.PNG)
+
+##### Query and Sort your results by Date, Name and other quantities
+![Analyze](https://something-corona.s3.ap-south-1.amazonaws.com/flipkart/Query.PNG)
+
+##### Sellers can use the chatbot to see if their invoices are all correct
+![Analyze](https://something-corona.s3.ap-south-1.amazonaws.com/flipkart/Whatsapp.PNG)
+
+##### Check on the dashboard who needs support
+![Analyze](https://something-corona.s3.ap-south-1.amazonaws.com/flipkart/Chatbot.PNG)
+
+##### Reply to each message individually
+![Analyze](https://something-corona.s3.ap-south-1.amazonaws.com/flipkart/Chatbot-Reply.PNG)
 
 
