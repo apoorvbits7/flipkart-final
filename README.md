@@ -1,5 +1,8 @@
 # Bitskrieg2.0
 
+### VIDEO
+The video is present in the root of the GitHub Repository. Filename - **InvoiceExtraction__demo.mp4**
+
 ### Installation
 IMPORTANT : Before running the program, please run the following commands on the terminal:
 
