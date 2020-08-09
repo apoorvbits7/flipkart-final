@@ -16,6 +16,8 @@ The program can be run using the following command :
 python3 digitize_invoice.py -i <PATH_TO_INPUT_PDF> -o <PATH_TO_SAVE_OUTPUT_EXCEL>
 ```
 
+### Running The Program with GUI
+
 ### Setting Up The Frontend
 
 cd into the frontend folder and run the following commands:
