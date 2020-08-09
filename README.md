@@ -44,10 +44,12 @@ PS:
 1. To make the backend work you will need to enter you database credentials in backend/server/config/config.json
 2. For the chatbot to work you will need to enter your Twilio credentials in backend/server/controllers/chatbot.js
 
+### CLI Snapshot
+![Analyze](https://something-corona.s3.ap-south-1.amazonaws.com/flipkart/CLI.jpeg)
 
 ### GUI Snapshots
 
-#### Use the Dashboard to Bulk Upload
+#### Use the Dashboard to bulk upload
 ![Analyze](https://something-corona.s3.ap-south-1.amazonaws.com/flipkart/1.PNG)
 
 #### Downlaod the results individually or in bulk
